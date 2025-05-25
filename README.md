@@ -1,6 +1,6 @@
 # Wifi Password Revealer App
 
-This is a simple application use to cracke and reveals wifi password.
+This is a simple application use to crack and reveals wifi password.
 
 ## 📥 Download
 
